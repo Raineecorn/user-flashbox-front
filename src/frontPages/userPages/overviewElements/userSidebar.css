@@ -1,0 +1,38 @@
+/* Sidebar CSS */
+.d-flex.flex-column.bg-danger.text-white.position-fixed.vh-50.rounded-top-right.p-5 {
+  margin-top: 100px;
+  margin-left: 30px;
+  z-index: 1000;
+}
+
+
+
+/* Media query for adjusting the sidebar on smaller screens */
+@media (max-width: 768px) {
+  .position-fixed {
+      width: 100%; /* Full width on smaller screens */
+      top: 0; /* Align to the top of the viewport */
+      left: 0; /* Align to the left of the viewport */
+      margin-top: 0; /* Remove top margin */
+      height: auto; /* Auto height to fit content */
+      border-radius: 0; /* Remove border-radius for a full-width layout */
+      flex-direction: row; /* Change flex direction to row for horizontal layout */
+      justify-content: center; /* Center the items horizontally */
+      align-items: center; /* Center the items vertically */
+  }
+
+  .list-unstyled {
+    display: flex; 
+      flex-direction: row; /* Make list items layout horizontally */
+      justify-content: center; /* Center list items if there's extra space */
+      align-items: center; /* Align items vertically */
+  }
+
+  .py-3 {
+      padding: 10px 15px; /* Adjust padding for better touch interaction */
+  }
+
+  .text-decoration-none {
+      font-size: 1rem; /* Adjust font size for better readability */
+  }
+}

@@ -1,0 +1,78 @@
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 70vh; 
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  /* Grid container for sender's information */
+  .sender-info,
+  .receiver-info {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for each form label and input */
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* Row layout for the remaining form fields */
+  .row {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .row .form-group {
+    flex: 1;
+  }
+  
+  button[type="submit"] {
+    background-color: #373e44;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0a3d62;
+  }
+
+  form input[disabled] {
+    background-color: #e9ecef; /* Light gray background */
+    color: #34373a; /* Dark gray text */
+    cursor: not-allowed; /* Cursor to indicate it's not editable */
+  }
+  
+  /* Disabled button styling */
+  form button[disabled] {
+    background-color: #5f4e4e; /* Gray background for disabled button */
+    cursor: not-allowed;
+  }

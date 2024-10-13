@@ -1,0 +1,263 @@
+
+@emotion/react                                      😍  UPDATE!   Your local install is out of date. https://github.com/emotion-js/emotion/tree/main#readme
+                                                                 npm install @emotion/react@11.13.3 --save to go from 11.13.0 to 11.13.3
+
+@fortawesome/free-brands-svg-icons                  😕  NOTUSED?  Still using @fortawesome/free-brands-svg-icons?
+                                                                 Depcheck did not find code similar to require('@fortawesome/free-brands-svg-icons') or import from '@fortawesome/free-brands-svg-icons'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@fortawesome/free-brands-svg-icons"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @fortawesome/free-brands-svg-icons --save
+
+@fortawesome/free-solid-svg-icons                   😕  NOTUSED?  Still using @fortawesome/free-solid-svg-icons?
+                                                                 Depcheck did not find code similar to require('@fortawesome/free-solid-svg-icons') or import from '@fortawesome/free-solid-svg-icons'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@fortawesome/free-solid-svg-icons"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @fortawesome/free-solid-svg-icons --save
+
+@fortawesome/react-fontawesome                      😕  NOTUSED?  Still using @fortawesome/react-fontawesome?
+                                                                 Depcheck did not find code similar to require('@fortawesome/react-fontawesome') or import from '@fortawesome/react-fontawesome'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@fortawesome/react-fontawesome"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @fortawesome/react-fontawesome --save
+
+@mui/icons-material                                 😎  MAJOR UP  Major update available. https://mui.com/material-ui/material-icons/
+                                                                 npm install @mui/icons-material@6.1.3 --save to go from 5.16.5 to 6.1.3
+                                                    😕  NOTUSED?  Still using @mui/icons-material?
+                                                                 Depcheck did not find code similar to require('@mui/icons-material') or import from '@mui/icons-material'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@mui/icons-material"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @mui/icons-material --save
+
+@mui/material                                       😎  MAJOR UP  Major update available. https://mui.com/material-ui/
+                                                                 npm install @mui/material@6.1.3 --save to go from 5.16.5 to 6.1.3
+
+@testing-library/jest-dom                           😎  MAJOR UP  Major update available. https://github.com/testing-library/jest-dom#readme
+                                                                 npm install @testing-library/jest-dom@6.5.0 --save to go from 5.17.0 to 6.5.0
+                                                    😕  NOTUSED?  Still using @testing-library/jest-dom?
+                                                                 Depcheck did not find code similar to require('@testing-library/jest-dom') or import from '@testing-library/jest-dom'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@testing-library/jest-dom"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @testing-library/jest-dom --save
+
+@testing-library/react                              😎  MAJOR UP  Major update available. https://github.com/testing-library/react-testing-library#readme
+                                                                 npm install @testing-library/react@16.0.1 --save to go from 13.4.0 to 16.0.1
+                                                    😕  NOTUSED?  Still using @testing-library/react?
+                                                                 Depcheck did not find code similar to require('@testing-library/react') or import from '@testing-library/react'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@testing-library/react"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @testing-library/react --save
+
+@testing-library/user-event                         😎  MAJOR UP  Major update available. https://github.com/testing-library/user-event#readme
+                                                                 npm install @testing-library/user-event@14.5.2 --save to go from 13.5.0 to 14.5.2
+                                                    😕  NOTUSED?  Still using @testing-library/user-event?
+                                                                 Depcheck did not find code similar to require('@testing-library/user-event') or import from '@testing-library/user-event'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@testing-library/user-event"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @testing-library/user-event --save
+
+ajv                                                 😕  NOTUSED?  Still using ajv?
+                                                                 Depcheck did not find code similar to require('ajv') or import from 'ajv'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["ajv"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall ajv --save
+
+all                                                 😕  NOTUSED?  Still using all?
+                                                                 Depcheck did not find code similar to require('all') or import from 'all'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["all"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall all --save
+
+axios                                               😍  UPDATE!   Your local install is out of date. https://axios-http.com
+                                                                 npm install axios@1.7.7 --save to go from 1.7.2 to 1.7.7
+                                                    😕  NOTUSED?  Still using axios?
+                                                                 Depcheck did not find code similar to require('axios') or import from 'axios'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["axios"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall axios --save
+
+classnames                                          😕  NOTUSED?  Still using classnames?
+                                                                 Depcheck did not find code similar to require('classnames') or import from 'classnames'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["classnames"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall classnames --save
+
+cross-env                                           😕  NOTUSED?  Still using cross-env?
+                                                                 Depcheck did not find code similar to require('cross-env') or import from 'cross-env'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["cross-env"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall cross-env --save
+
+dotenv                                              😕  NOTUSED?  Still using dotenv?
+                                                                 Depcheck did not find code similar to require('dotenv') or import from 'dotenv'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["dotenv"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall dotenv --save
+
+emailjs-com                                         😕  NOTUSED?  Still using emailjs-com?
+                                                                 Depcheck did not find code similar to require('emailjs-com') or import from 'emailjs-com'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["emailjs-com"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall emailjs-com --save
+
+headroom.js                                         😕  NOTUSED?  Still using headroom.js?
+                                                                 Depcheck did not find code similar to require('headroom.js') or import from 'headroom.js'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["headroom.js"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall headroom.js --save
+
+moment                                              😎  MINOR UP  Minor update available. https://momentjs.com
+                                                                 npm install moment@2.30.1 --save to go from 2.29.4 to 2.30.1
+                                                    😕  NOTUSED?  Still using moment?
+                                                                 Depcheck did not find code similar to require('moment') or import from 'moment'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["moment"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall moment --save
+
+nouislider                                          😎  MINOR UP  Minor update available. https://github.com/leongersen/noUiSlider#readme
+                                                                 npm install nouislider@15.8.1 --save to go from 15.4.0 to 15.8.1
+                                                    😕  NOTUSED?  Still using nouislider?
+                                                                 Depcheck did not find code similar to require('nouislider') or import from 'nouislider'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["nouislider"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall nouislider --save
+
+react-bootstrap                                     😍  UPDATE!   Your local install is out of date. https://react-bootstrap.github.io/
+                                                                 npm install react-bootstrap@2.10.5 --save to go from 2.10.4 to 2.10.5
+
+react-data-table-component                          😕  NOTUSED?  Still using react-data-table-component?
+                                                                 Depcheck did not find code similar to require('react-data-table-component') or import from 'react-data-table-component'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["react-data-table-component"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall react-data-table-component --save
+
+react-datetime                                      😕  NOTUSED?  Still using react-datetime?
+                                                                 Depcheck did not find code similar to require('react-datetime') or import from 'react-datetime'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["react-datetime"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall react-datetime --save
+
+react-icons                                         😍  UPDATE!   Your local install is out of date. https://github.com/react-icons/react-icons#readme
+                                                                 npm install react-icons@5.3.0 --save to go from 5.2.1 to 5.3.0
+                                                    😕  NOTUSED?  Still using react-icons?
+                                                                 Depcheck did not find code similar to require('react-icons') or import from 'react-icons'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["react-icons"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall react-icons --save
+
+react-router-dom                                    😍  UPDATE!   Your local install is out of date. https://github.com/remix-run/react-router#readme
+                                                                 npm install react-router-dom@6.27.0 --save to go from 6.23.1 to 6.27.0
+
+reactstrap                                          😍  UPDATE!   Your local install is out of date. https://github.com/reactstrap/reactstrap#readme
+                                                                 npm install reactstrap@9.2.3 --save to go from 9.2.2 to 9.2.3
+                                                    😕  NOTUSED?  Still using reactstrap?
+                                                                 Depcheck did not find code similar to require('reactstrap') or import from 'reactstrap'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["reactstrap"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall reactstrap --save
+
+recharts                                            😍  UPDATE!   Your local install is out of date. https://github.com/recharts/recharts
+                                                                 npm install recharts@2.13.0 --save to go from 2.12.7 to 2.13.0
+                                                    😕  NOTUSED?  Still using recharts?
+                                                                 Depcheck did not find code similar to require('recharts') or import from 'recharts'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["recharts"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall recharts --save
+
+sass                                                😍  UPDATE!   Your local install is out of date. https://github.com/sass/dart-sass
+                                                                 npm install sass@1.79.5 --save to go from 1.62.1 to 1.79.5
+
+sharp                                               😕  NOTUSED?  Still using sharp?
+                                                                 Depcheck did not find code similar to require('sharp') or import from 'sharp'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["sharp"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall sharp --save
+
+web-vitals                                          😎  MAJOR UP  Major update available. https://github.com/GoogleChrome/web-vitals#readme
+                                                                 npm install web-vitals@4.2.3 --save to go from 2.1.4 to 4.2.3
+                                                    😕  NOTUSED?  Still using web-vitals?
+                                                                 Depcheck did not find code similar to require('web-vitals') or import from 'web-vitals'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["web-vitals"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall web-vitals --save
+
+@babel/plugin-proposal-private-property-in-object   😕  NOTUSED?  Still using @babel/plugin-proposal-private-property-in-object?
+                                                                 Depcheck did not find code similar to require('@babel/plugin-proposal-private-property-in-object') or import from '@babel/plugin-proposal-private-property-in-object'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@babel/plugin-proposal-private-property-in-object"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @babel/plugin-proposal-private-property-in-object --save-dev
+
+@fullhuman/postcss-purgecss                         😕  NOTUSED?  Still using @fullhuman/postcss-purgecss?
+                                                                 Depcheck did not find code similar to require('@fullhuman/postcss-purgecss') or import from '@fullhuman/postcss-purgecss'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["@fullhuman/postcss-purgecss"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall @fullhuman/postcss-purgecss --save-dev
+
+prettier                                            😎  PATCH UP  Patch update available. https://prettier.io
+                                                                 npm install prettier@3.3.3 --save-dev to go from 3.3.2 to 3.3.3
+                                                    😕  NOTUSED?  Still using prettier?
+                                                                 Depcheck did not find code similar to require('prettier') or import from 'prettier'.
+                                                                 Check your code before removing as depcheck isn't able to foresee all ways dependencies can be used.
+                                                                 Use rc file options to remove unused check, but still monitor for outdated version:
+                                                                     .npmcheckrc {"depcheck": {"ignoreMatches": ["prettier"]}}
+                                                                 Use --skip-unused to skip this check.
+                                                                 To remove this package: npm uninstall prettier --save-dev
+
+express                                             😟  PKG ERR!  Not in the package.json. Found in: /frontend-server.js
+                                                    😎  MINOR UP  Minor update available. http://expressjs.com/
+                                                                 npm install express@4.21.1 --save to go from 4.19.2 to 4.21.1
+
+eslint-config-react-app                             😟  PKG ERR!  Not in the package.json. Found in: /package.json
+
+Use npm-check -u for interactive update.

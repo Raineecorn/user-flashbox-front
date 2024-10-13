@@ -1,0 +1,73 @@
+{
+  "name": "flashbox_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.25.8",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.5",
+    "all": "^0.0.0",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "emailjs-com": "^3.2.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "^5.0.1",
+    "react-transition-group": "^4.4.5",
+    "sass": "^1.62.1",
+    "serve": "^14.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "scss": "sass --watch src/assets/css/custom.scss src/assets/css/custom.css",
+    "lint": "eslint './src/**/*.{js,jsx}'"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "raineecorn@github.com"
+  },
+  "keywords": [
+    "flashbox_fe"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-transform-class-properties": "^7.25.7",
+    "@babel/plugin-transform-private-methods": "^7.25.7",
+    "@eslint/js": "^9.12.0",
+    "depcheck": "^1.4.7",
+    "eslint": "^8.57.1",
+    "eslint-plugin-react": "^7.37.1",
+    "globals": "^15.11.0",
+    "prettier": "3.3.2",
+    "unimported": "^1.31.0"
+  }
+}

@@ -1,0 +1,7 @@
+.UserContactUS {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin: 50px; 
+    height: 100vh; /* Full height of the viewport (optional, adjust as needed) */
+    width: 100%; /* Full width of the parent container */
+}
